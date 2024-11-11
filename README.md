@@ -1,3 +1,8 @@
+# Highlight Removel Android NDK
+Highlight Removal Based on Muti-frame Matching and Stitching
+
+![ccdc0d191b8ae226b123e30340e8bf2](https://github.com/user-attachments/assets/6dd8bb15-44c4-4772-b340-b31e0848ad9d)
+
 
 # Project OneDrive Link
 # Camera version
@@ -7,6 +12,6 @@ https://gpsracsch-my.sharepoint.com/:u:/g/personal/c46636_vip_officed_top/ERZB6x
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Native OpenCV for Android with Android NDK
+
 
 
