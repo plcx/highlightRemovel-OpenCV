@@ -1,0 +1,14 @@
+include ':app'
+
+//project(':opencv').projectDir = new File('/sdk') //opencvsdk +
+//project(':sdk').projectDir = new File(rootDir, 'app/OpenCV-android-sdk/sdk/')
+//project(':opencv').projectDir = new File(rootDir,'OpenCV-android-sdk')
+
+// 这里定义了一个变量opencvsdk，变量值为OpenCV Android SDK的解压路径
+def opencvsdk='C:\\Users\\75846\\Desktop\\Highlight\\native-opencv-android-template-master\\OpenCV-android-sdk'
+// 项目中包含一个新模块"opencv"
+include ':opencv'
+// 设置模块的项目路径为SDK解压路径的sdk
+project(':opencv').projectDir = new File(opencvsdk + '/sdk')
+//include ':opencv'
+//
