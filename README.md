@@ -3,5 +3,6 @@ highlight removel opencv
 
 
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/71a7d604-d95f-4e0d-98fc-900487a96fb3)
 
